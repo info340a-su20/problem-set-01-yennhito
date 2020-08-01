@@ -1,0 +1,23 @@
+
+
+img{
+  max-height: 400px;
+} 
+
+body {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 16px;  
+  line-height: 1.5;
+}
+
+p {
+  line-height: 1.5;
+}
+
+.important {
+  color: red;
+}
+
+h1 {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
